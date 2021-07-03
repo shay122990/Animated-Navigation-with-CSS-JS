@@ -11,8 +11,8 @@ This effect is mainly created using CSS and a little JS. (You should be familiar
 ### Preview:
 
 With the images below you can only see the before and after effect. To see it in action, please go to the **Installation** section below.
-![Initial view] (/media/image1.png)
-![Final view] (/media/image2.png)
+![Initial view] (media/image1.png)
+![Final view] (media/image2.png)
 
 ### Installation
 
