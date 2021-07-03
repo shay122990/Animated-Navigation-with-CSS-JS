@@ -2,7 +2,7 @@
 
 ### Description.
 
-A more dynamic nav-bar that expands to the left upon a click with a little preview of the content and a transformer effect. You can apply this to your app if you want to add a little fun edge.
+A dynamic nav-bar that expands to the left upon a click with a little preview of the content and a transformer effect. You can apply this to your app if you want to add a little fun edge.
 
 ### What is used?
 
@@ -16,4 +16,4 @@ With the images below you can only see the before and after effect. To see it in
 
 ### Installation
 
-Please download and unzip file.You can see it live through your locahost.
+Please download the code as a ZIP file and unzip it. No web server required, you can see it live through your locahost by opening index.html with your browser.
